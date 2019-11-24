@@ -1,0 +1,3 @@
+I made my first chage
+
+$ git status # will show the change has been made
